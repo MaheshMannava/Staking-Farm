@@ -4,3 +4,6 @@
 
 
 ### Built using solidity,Node js,Next Js, ethers,express, wagmi
+
+
+![stk1](https://github.com/MaheshMannava/staking-farm/assets/71592960/dd505057-8fbb-412c-be60-d07149f7bbc8)
