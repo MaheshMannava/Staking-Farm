@@ -27,7 +27,7 @@ export default function Staking() {
   useEffect(() => {
     async function getWalletBalance() {
       await axios
-        .get("http://localhost:5001/getwalletbalance", {
+        .get("https://stake-farming.onrender.com/getwalletbalance", {
           params: { address },
         })
         .then((response) => {
